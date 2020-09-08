@@ -1,6 +1,9 @@
 .container{
   text-align: center;
 }
+img {
+  border-radius: 4px;
+}
 
 .center-card {
   display: block;
@@ -18,11 +21,14 @@
   padding-top: 15px;
 }
 body{
-  background-color: blue;
+  background-color: rgb(40, 122, 216);
 }
 .container{
-  background-color: red;
+
 }
 .card{
-  background-color: yellow;
+  background-color: rgb(129, 198, 255);
+}
+.jumbotron{
+  background-color: rgb(103, 151, 206);
 }
